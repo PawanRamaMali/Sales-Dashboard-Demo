@@ -8,16 +8,13 @@ A business dashboard is an information management tool that is used to track KPI
 
 ## Table of Content
 
-- [User Story](#User-Story)
 - [Installation](#Installation)
 - [Usage](#Usage)
+- [Screencaps](#Screencaps)
 - [Application Link](#Application-Link)
-- [Contributing](#Contributing)
 - [Tests](#Tests)
 - [License](#License)
 
-
-## User-Story
 
 ## Installation
 
