@@ -4,18 +4,17 @@
 
 ## Description
 
-This application shows a basic demonstration of how dashboards can be used to effectively communicate the meaningful data for intended target audience.
+A business dashboard is an information management tool that is used to track KPIs, metrics, and other key data points relevant to a business, department, or specific process. Through the use of data visualizations, dashboards simplify complex data sets to provide users with at a glance awareness of current performance
 
 ## Table of Content
 
 - [User Story](#User-Story)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Technologies-Used](#Technologies-Used)
+- [Application Link](#Application-Link)
 - [Contributing](#Contributing)
 - [Tests](#Tests)
 - [License](#License)
-- [Questions](#Questions)
 
 
 ## User-Story
@@ -31,13 +30,11 @@ For development:
 
 In development: app will run on http://localhost by default.
 
-## Screencaps:
+## Screencaps
 
 ![image](https://user-images.githubusercontent.com/11299574/112169549-4df5f300-8c18-11eb-99b7-de72b9301104.png)
 
--- Coming soon!
-
-## App live link:
+## Application-Link
 
 ##### Link - https://mydashboardv1.shinyapps.io/Sales_Dashboard_Demo/ 
 
