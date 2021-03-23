@@ -13,7 +13,7 @@ recommendation <-
 
 
 #Dashboard header carrying the title of the dashboard
-header <- dashboardHeader(title = "Basic Dashboard")
+header <- dashboardHeader(title = "Demo Dashboard")
 
 #Sidebar content of the dashboard
 sidebar <- dashboardSidebar(sidebarMenu(
